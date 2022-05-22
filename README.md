@@ -12,7 +12,7 @@ SKILLS :  HTML / CSS3 / BOOTSTRAP5 / JS / WORDPRESS / PHP
 ![Profile views](https://gpvc.arturio.dev/programmerariful)  
 
 
-- 🔭 I’m currently working on LFWF Academy 
+- 🔭 I’m currently working on SoroBindu (Web Design and Development Institute)
 - 🌱 I’m currently learning JavaScript (Mern Stack) 
 - 💬 Ask me about programmerariful@gmail.com 
 - ⚡ Fun fact: Coding  
