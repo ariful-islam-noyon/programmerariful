@@ -10,7 +10,7 @@ Web Developer with a demonstrated history of working in the Outsourcing Institut
 Skills:  HTML / CSS3 / BOOTSTRAP5 / WORDPRESS / JS / PHP 
 
 
-![Profile views](https://gpvc.arturio.dev/ariful2020)  
+![Profile views](https://gpvc.arturio.dev/programmerariful)  
 
 
 - 🔭 I’m currently working on LFWF Academy 
@@ -18,4 +18,4 @@ Skills:  HTML / CSS3 / BOOTSTRAP5 / WORDPRESS / JS / PHP
 - 💬 Ask me about Web-Developer 
 - ⚡ Fun fact: Coding  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2020)](https://github.com/anuraghazra/github-readme-stats)                             ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful2020&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerariful)](https://github.com/anuraghazra/github-readme-stats)                             ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerariful&show_icons=true)  
