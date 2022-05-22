@@ -6,7 +6,7 @@
 Web Developer with a demonstrated history of working in the Outsourcing Institute. Skilled in HTML, Cascading Style Sheets (CSS), Bootstrap5, JavaScript (Mern Stack), PHP And Wordpress. Strong engineering professional with a B.Sc Honour focused in Botany/Plant Biology from Sirajganj govt. College, Sirajganj.
 
 
-Skills:  HTML / CSS3 / BOOTSTRAP5 / JS / WORDPRESS / PHP 
+SKILLS:  HTML / CSS3 / BOOTSTRAP5 / JS / WORDPRESS / PHP 
 
 
 ![Profile views](https://gpvc.arturio.dev/programmerariful)  
