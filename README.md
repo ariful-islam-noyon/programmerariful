@@ -1,4 +1,3 @@
-![Programmer And Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEolOlntm7D_w/profile-displaybackgroundimage-shrink_200_800/0/1622161226558?e=1635984000&v=beta&t=NpvGmcK3lxutfIGsqjr8TjYWHIWbuKobN0GlPR4zb9A)
 
 # Hi there 👋, I'm Ariful Islam Noyon
 #### Programmer And Full Stack Web Developer
